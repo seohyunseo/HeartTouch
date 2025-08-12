@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Test/Scenes/EffectTest.unity
+    guid: 92d165d2372e4534a88cfc986ad465da
+  - enabled: 1
+    path: Assets/Test/Scenes/DemoScene.unity
+    guid: e3a9b7b036c6b794f88770c601973825
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6f0bf02d86e5e244db6c5d2b970e6d2d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 17d3b6d89b3cb9f4cbf52c5e89a8e9df, type: 2}
+  m_UseUCBPForAssetBundles: 0
